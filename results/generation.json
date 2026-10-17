@@ -1,0 +1,318 @@
+{
+ "samples": [
+  {
+   "model": "SimpleRNN",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 0.5,
+   "text": "alice was beginning to get very tired of sitting | , and she had not off to her, and she found herself to the other side to the door had of the other, and she began to her head. \" \" it was a little thing, \" i shall have no use in the e e"
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.0,
+   "text": "alice was beginning to get very tired of sitting | , in custody, and off to her heard, and way to tried to go down in the - had of his head, and he wasn't very humbly? \" \", \" the march hare no, \" i a thing, and said get. \""
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.5,
+   "text": "alice was beginning to get very tired of sitting | again in some splashing tone tails: \" heard eat how way talking tried moved me down round. \" walk, quiet our, the voice? sure \" don't much all, \" giving a sharp no day clock i a general honour get things get otherwise lesson"
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 0.5,
+   "text": "the queen turned crimson with fury and shouted | , and was going to work it in the queen, and the executioner thinking of her flamingo of the trees, and she went on. \" \" you'll! \" said the caterpillar. \" i don't know it, \" said the hatter, \" thought alice"
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.0,
+   "text": "the queen turned crimson with fury and shouted | not face. the hedgehog is made an worse up, and then it's thinking go on the cheshire had a caucus she jumped herself, and she began herself; \" and have no room to it'll back i shouldn't did when i can't remember, \" thought it"
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.5,
+   "text": "the queen turned crimson with fury and shouted | not face. the dears riddles white rabbit fell up children till some as thinking go on) cheshire had a caucus she jumped herself as long herself, as! \" and serpent herself timidly into it'll back i bill think stopped or two! alice came rather william"
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 0.5,
+   "text": "down the rabbit hole she fell and | the fan of the children. \" \" well, you know! \" said the mock turtle. \" as she could not a great girl, \" said the hatter. \" \" i don't know so! \" and the mouse was quite surprised to her about"
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.0,
+   "text": "down the rabbit hole she fell and | came among it turtles his moment, and concluded a jar what was itself about two, and then the second rabbit tell in a deep, and she fancied not quite dry minutes with his eyes ring so: she only her laughing, and he was silent about"
+  },
+  {
+   "model": "SimpleRNN",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.5,
+   "text": "down the rabbit hole she fell and | came among it turtles am moment, and concluded red. what was itself about two minutes. come instance as she tell we speech, there got well, not you. five why your a ring so: she only move laughing, come on was silent about"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 0.5,
+   "text": "alice was beginning to get very tired of sitting | , and she looked up and a little timidly, and alice was going to work it. \" \" i don't be, \" said alice, \" \" the mock turtle, \" said alice, \" and then i to be sure, \" said alice."
+  },
+  {
+   "model": "BiRNN",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.0,
+   "text": "alice was beginning to get very tired of sitting | again in custody, you know one in the words, but was tried to feel down to the top had taken his head, the cook them after \" the mock turtle, \" the mock turtle said, \" i a really dreadful get. get i wonder"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.5,
+   "text": "alice was beginning to get very tired of sitting | again in custody, you know one cried heard eat how as stupid tried moved i'd down round the - had taken his cat's, looked under its eyes \" don't talk all, \" the sensation among no, clock i a really dreadful get. get i wonder"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 0.5,
+   "text": "the queen turned crimson with fury and shouted | , and was going to herself, \" the queen went on, \" and the pigeon had never had been broken glass table, and she had closed herself; \" and have no use, \" said alice. \" \" i do you? \" said the"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.0,
+   "text": "the queen turned crimson with fury and shouted | very uncomfortable. the hedgehog cards, in a well, and then it's thinking go on the cheshire cat, but she looked into a long way, she fancied! \" \" but you shouldn't it'll back i can dinn without or two! \" \" i never"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.5,
+   "text": "the queen turned crimson with fury and shouted | very uncomfortable. the hedgehog cards said an worse up children till my as thinking go on) cheshire had a caucus she jumped herself as long herself, as! \" and have flat jumping cat left back i bill. when or two either, came days william"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 0.5,
+   "text": "down the rabbit hole she fell and | the fan and the march hare was, and she tried to herself, while the mock turtle drew the queen, but she had never knew it would be a little house, and then she went on: \" and she was nothing to eat or drink anything"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.0,
+   "text": "down the rabbit hole she fell and | how queer it was children; but, alas is. \" \" i never even looking. \" \" i see what we shall be? \" \" you don't know. \" \" \" \" \" so! \" she said to herself hastily; but then she"
+  },
+  {
+   "model": "BiRNN",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.5,
+   "text": "down the rabbit hole she fell and | by busily stirring turtles am; but, to begin. what would itself about two minutes. come the as she tell us a deep long ago well, both while. five! \" she ring so: she only mustard laughing as come on was just eggs"
+  },
+  {
+   "model": "LSTM",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 0.5,
+   "text": "alice was beginning to get very tired of sitting | , and she had not gone into the white rabbit, and was going to feel the other: she had taken into the garden the window, and was going to work, \" the hatter said to the mock turtle, \" and she tried to work in"
+  },
+  {
+   "model": "LSTM",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.0,
+   "text": "alice was beginning to get very tired of sitting | again in custody, and i'm sure to heard him how way it tried to me down round here. i think i suppose that the end size! \" the mock turtle, \" the young solemnly no that? \" a i'm who were lessons get. \""
+  },
+  {
+   "model": "LSTM",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.5,
+   "text": "alice was beginning to get very tired of sitting | again in custody, but it would cried heard dry how way it tried moved me down round here; walk you'd quiet our almost the under size to \" with oh!, \" the sensation repeated no; \" i a really who rather knowing get fetch lesson"
+  },
+  {
+   "model": "LSTM",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 0.5,
+   "text": "the queen turned crimson with fury and shouted | , and was the little golden key, and up the little golden key and the baby, and had a little golden key, and she had never forgotten to school the door. the dormouse is back to go on the sea of the way of the others"
+  },
+  {
+   "model": "LSTM",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.0,
+   "text": "the queen turned crimson with fury and shouted | , and was the three gardeners instantly an worse up children till some as thinking, but i get out for the - other, mary long pardon, if! \" and she went on again. \" i shouldn't they stopped at any rate, came days it"
+  },
+  {
+   "model": "LSTM",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.5,
+   "text": "the queen turned crimson with fury and shouted | not; by the dears is made an worse up children till my it's thinking go on) cheshire or beautiful belongs she jumped into off long pardon, as! \" and serpent flat jumping puzzled left back by bill. when at any rate alice came children it"
+  },
+  {
+   "model": "LSTM",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 0.5,
+   "text": "down the rabbit hole she fell and | a little pattering of the players, and was going to find that it was not minutes. \" \" i don't tell you, \" said the gryphon, \" you know. \" \" what is so long \" said the gryphon, \" and then the gryphon"
+  },
+  {
+   "model": "LSTM",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.0,
+   "text": "down the rabbit hole she fell and | by among it). \" what sort of a jar what to itself about two, and then the second thing tell we right, there seemed to have the window. five and peeped for ring so: she was now to be quite. she took another"
+  },
+  {
+   "model": "LSTM",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.5,
+   "text": "down the rabbit hole she fell and | by among it turtles children moment, found to begin. what was itself since two minutes the dance might as she tell we right, there tells keep fancied the while. five! \" she ring so: she was now laughing again high. was silent another"
+  },
+  {
+   "model": "GRU",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 0.5,
+   "text": "alice was beginning to get very tired of sitting | , and she had got to the game, and she kept to herself, and she soon found herself she had forgotten the fan and gloves, and was delighted to find that it was a little startled, and she set to work quite. \" i don't"
+  },
+  {
+   "model": "GRU",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.0,
+   "text": "alice was beginning to get very tired of sitting | again in sight, but it would hardly heard dry at alice. \" and i'd tried to take \" walk, that's, that the gryphon repeated that \" wow! \", \" the poor cat no, \" i can you like it. \" i don't"
+  },
+  {
+   "model": "GRU",
+   "seed": "alice was beginning to get very tired of sitting",
+   "temperature": 1.5,
+   "text": "alice was beginning to get very tired of sitting | again in custody: but i'm sure cried heard eat how way was tried, i'd walked round here at had taken quiet, that looked under its minute \" don't talk cats, \" the sensation said no mad clock i a advisable, rather things get otherwise lesson"
+  },
+  {
+   "model": "GRU",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 0.5,
+   "text": "the queen turned crimson with fury and shouted | , and was the fan and the rabbit were up and till the fan and the queen of the table, and she set to work as she had never to do the door. \" it's no use, \" alice replied replied, \" alice replied rather very"
+  },
+  {
+   "model": "GRU",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.0,
+   "text": "the queen turned crimson with fury and shouted | , and was the fan and the rabbit fell up children till some as thinking go on their cheshire or for the she - hole as she had done as well as she could think you think it'll back i can think when i can't think alice could talk it"
+  },
+  {
+   "model": "GRU",
+   "seed": "the queen turned crimson with fury and shouted",
+   "temperature": 1.5,
+   "text": "the queen turned crimson with fury and shouted | not face. the dears is made an worse up children till my it's thinking go on their cheshire or beautiful belongs she jumped herself as long pardon, as! \" and serpent flat you poison left back i bill they stopped sat out here alice came children it"
+  },
+  {
+   "model": "GRU",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 0.5,
+   "text": "down the rabbit hole she fell and | a little door, and she began to herself. \" what are you do, \" said the cat. \" i've been to the duchess? \" \" the queen. \" \" what is? \" said alice. \" \" i suppose so much about it"
+  },
+  {
+   "model": "GRU",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.0,
+   "text": "down the rabbit hole she fell and | came among it. \" what was, to begin. \" \" i can't happen next. \" \" as she tell me right, there? \" \" not you. five! \" \" always so! \" she said to herself, and she ran about"
+  },
+  {
+   "model": "GRU",
+   "seed": "down the rabbit hole she fell and",
+   "temperature": 1.5,
+   "text": "down the rabbit hole she fell and | came among it turtles children moment, found to offer. what any itself while two altogether majesty come the as? tell we shall his subject? \" \" not you dry free tortoise \" \" ring so: she only now laughing, come on sorts somewhere eggs"
+  }
+ ],
+ "summary": {
+  "SimpleRNN|0.5": {
+   "distinct1": 0.5653333333333334,
+   "distinct2": 0.8081632653061224,
+   "rep_trigram": 0.08027210884353743,
+   "bigram_valid": 0.9179999999999999,
+   "trigram_valid": 0.6918367346938775,
+   "max_repeat_run": 1.8666666666666667
+  },
+  "SimpleRNN|1.0": {
+   "distinct1": 0.7219999999999999,
+   "distinct2": 0.9414965986394557,
+   "rep_trigram": 0.00612244897959184,
+   "bigram_valid": 0.6666666666666665,
+   "trigram_valid": 0.3047619047619048,
+   "max_repeat_run": 1.5666666666666667
+  },
+  "SimpleRNN|1.5": {
+   "distinct1": 0.876,
+   "distinct2": 0.998639455782313,
+   "rep_trigram": 0.0,
+   "bigram_valid": 0.324,
+   "trigram_valid": 0.04421768707482993,
+   "max_repeat_run": 1.0333333333333334
+  },
+  "BiRNN|0.5": {
+   "distinct1": 0.6053333333333334,
+   "distinct2": 0.8455782312925171,
+   "rep_trigram": 0.05442176870748299,
+   "bigram_valid": 0.9493333333333335,
+   "trigram_valid": 0.7306122448979591,
+   "max_repeat_run": 1.6
+  },
+  "BiRNN|1.0": {
+   "distinct1": 0.7379999999999999,
+   "distinct2": 0.9591836734693876,
+   "rep_trigram": 0.008163265306122455,
+   "bigram_valid": 0.7906666666666666,
+   "trigram_valid": 0.3571428571428571,
+   "max_repeat_run": 1.4333333333333333
+  },
+  "BiRNN|1.5": {
+   "distinct1": 0.8733333333333334,
+   "distinct2": 0.9959183673469388,
+   "rep_trigram": 0.0,
+   "bigram_valid": 0.44133333333333336,
+   "trigram_valid": 0.08231292517006804,
+   "max_repeat_run": 1.2333333333333334
+  },
+  "LSTM|0.5": {
+   "distinct1": 0.6046666666666666,
+   "distinct2": 0.8442176870748299,
+   "rep_trigram": 0.06258503401360543,
+   "bigram_valid": 0.9366666666666666,
+   "trigram_valid": 0.7142857142857142,
+   "max_repeat_run": 1.4666666666666666
+  },
+  "LSTM|1.0": {
+   "distinct1": 0.7726666666666666,
+   "distinct2": 0.9700680272108844,
+   "rep_trigram": 0.003401360544217687,
+   "bigram_valid": 0.6920000000000001,
+   "trigram_valid": 0.3312925170068028,
+   "max_repeat_run": 1.3
+  },
+  "LSTM|1.5": {
+   "distinct1": 0.8673333333333335,
+   "distinct2": 0.9931972789115645,
+   "rep_trigram": 0.0,
+   "bigram_valid": 0.35200000000000004,
+   "trigram_valid": 0.05238095238095239,
+   "max_repeat_run": 1.1666666666666667
+  },
+  "GRU|0.5": {
+   "distinct1": 0.6033333333333334,
+   "distinct2": 0.8462585034013604,
+   "rep_trigram": 0.05306122448979592,
+   "bigram_valid": 0.9260000000000002,
+   "trigram_valid": 0.702721088435374,
+   "max_repeat_run": 1.5666666666666667
+  },
+  "GRU|1.0": {
+   "distinct1": 0.7446666666666667,
+   "distinct2": 0.9557823129251701,
+   "rep_trigram": 0.0054421768707483015,
+   "bigram_valid": 0.6806666666666666,
+   "trigram_valid": 0.30680272108843537,
+   "max_repeat_run": 1.3666666666666667
+  },
+  "GRU|1.5": {
+   "distinct1": 0.8919999999999999,
+   "distinct2": 0.9972789115646259,
+   "rep_trigram": 0.0,
+   "bigram_valid": 0.3233333333333333,
+   "trigram_valid": 0.04761904761904761,
+   "max_repeat_run": 1.1
+  }
+ }
+}
